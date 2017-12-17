@@ -1,0 +1,5 @@
+# x86 (IA-32) CPU on FPGA
+
+Prepared instruction set is
+
+![table.png](table.png)
