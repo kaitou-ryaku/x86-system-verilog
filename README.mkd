@@ -3,3 +3,7 @@
 Prepared instruction set is
 
 ![table.png](table.png)
+
+### LICENSE
+
+MIT
